@@ -1,3 +1,3 @@
-справка
+справка __str___
 
 https://docs.djangoproject.com/en/5.0/ref/models/instances/
