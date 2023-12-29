@@ -1,3 +1,7 @@
+работа с формами
+
+https://docs.djangoproject.com/en/5.0/topics/forms/modelforms/#modelform
+
 все методи objects
 
 https://docs.djangoproject.com/en/5.0/ref/models/querysets/
